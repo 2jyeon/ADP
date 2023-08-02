@@ -1,0 +1,8 @@
+---
+title: "기본"
+output: html_notebook
+---
+
+```{r eval=F}
+identical(x,y) # x와 y가 동일하면 TRUE
+```
